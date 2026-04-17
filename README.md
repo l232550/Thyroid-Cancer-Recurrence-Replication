@@ -7,7 +7,9 @@ Replication of: "Optimizing Unsupervised Feature Engineering and Classification 
 - Maryam Shahzadi (23F-3030)
 
 ## Original Paper
-[Click to view](https://pmc.ncbi.nlm.nih.gov/articles/PMC12070754/)
+- [Springer PDF](https://link.springer.com/article/10.1186/s12911-025-02935-3)
+- [Original GitHub Repo](https://github.com/OnahPmi/Thyroid-Cancer-Recurrence-Prediction-Project)
+- [Dataset - UCI ML Repository](https://archive.ics.uci.edu/dataset/915/differentiated+thyroid+cancer+recurrence)
 
 ## Setup
 1. Clone the repo
